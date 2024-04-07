@@ -1,0 +1,40 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+h1 {
+    background-color: #dce9f4;
+    color:#323c44;
+    height: 70px;
+    text-align: center;
+    font-size: 50px;
+    margin: 0 auto;
+    padding: 20px 0px 0px 0px;
+    
+
+    
+}
+
+nav {
+    position: relative;
+    top: 0px;
+    margin: 0 auto;
+    padding: 0;
+    height: 50px;
+    background-color: #A8C8E5 ;
+    width: 100%;
+}
+
+.navbar {
+    color: #323c44;
+
+}
+
+li {
+    display: inline;
+    padding: 5% ;
+    font-size: 30px;
+    
+    
+}
