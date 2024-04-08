@@ -1,13 +1,13 @@
 body {
     margin: 0 auto;
     padding: 0;
-    background-color: #eef2f5;
+    background-color: #fef5d9;
     font-family: Verdana;
     color: #394044;
 }
 
 h1{
-    background-color: #6c7e89;
+    background-color: #86d1f0;
     color: #f2f6f9;
     margin: 0;
     padding: 20px;
@@ -17,7 +17,7 @@ h1{
 }
 
 .navbar {
-    background-color: #d9e6ee;
+    background-color: #b5fcfc;
     padding: 10px;
 }
 
@@ -32,14 +32,14 @@ h1{
     text-decoration: none;
     display: block;
     text-align: center;
-    padding: 15px;
+    padding: 10px 15px;
     color: #394044;
 
 }
 
 .navbar a:hover {
     color: white;
-    background-color: #96afc0;
+    background-color: #09a4cf;
     border-radius: 10px;
     
 }
@@ -55,35 +55,3 @@ h3 {
     font-weight: normal;
     margin-left: 50px;
 }
-
-button {
- 
-    margin-left: 50px;
-    padding: 10px;
-    border: 1px solid;
-    cursor: pointer;
-    background-color: #6c7e89; 
-    border-radius: 10px;
-}
-.potatobutton {
-     color: white;
-     text-decoration: none;
-}
-
-button:link {
-    
-}
-
-button:visited {
-    
-}
-
-button:hover {
-    background-color: #6c7e8950; 
-    color: #394044;
-}
-
-button:active {
-  
-}
-
