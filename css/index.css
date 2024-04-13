@@ -56,18 +56,18 @@ h3 {
     margin-left: 50px;
 }
 
+.coffee {
+    margin: 10px 0px 70px 20px;
+}
+
 button {
  
-    margin-left: 50px;
+    margin: 20px;
     padding: 10px;
     
     cursor: pointer;
     background-color: #a95c62; 
     border-radius: 10px;
-}
-.potatobutton {
-     color: white;
-     text-decoration: none;
 }
 
 button:link {
@@ -88,3 +88,22 @@ button:active {
   
 }
 
+button.quote {
+    color: white;
+    border: 1px solid;
+    border-radius: 0px 20px;
+    padding: 30px;
+    font-size: 20px;
+    margin-right: 20px;
+    position: absolute;
+    bottom: 60px;
+    
+}
+
+footer {
+    background-color: #da969b;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    height: 50px;
+}
