@@ -64,13 +64,14 @@ button {
  
     margin: 20px;
     padding: 10px;
-    
     cursor: pointer;
     background-color: #a95c62; 
     border-radius: 10px;
 }
 
-button:link {
+button a {
+    color: white;
+    text-decoration: none;
     
 }
 
