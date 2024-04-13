@@ -1,13 +1,13 @@
 body {
     margin: 0 auto;
     padding: 0;
-    background-color: #eef2f5;
+    background-color: white;
     font-family: Verdana;
-    color: #394044;
+    color: #444444;
 }
 
 h1{
-    background-color: #6c7e89;
+    background-color: 	#da969b;
     color: #f2f6f9;
     margin: 0;
     padding: 20px;
@@ -17,7 +17,7 @@ h1{
 }
 
 .navbar {
-    background-color: #d9e6ee;
+    background-color: #f0d5d7;
     padding: 10px;
 }
 
@@ -39,7 +39,7 @@ h1{
 
 .navbar a:hover {
     color: white;
-    background-color: #96afc0;
+    background-color: #da969b80;
     border-radius: 10px;
     
 }
@@ -60,9 +60,9 @@ button {
  
     margin-left: 50px;
     padding: 10px;
-    border: 1px solid;
+    
     cursor: pointer;
-    background-color: #6c7e89; 
+    background-color: #a95c62; 
     border-radius: 10px;
 }
 .potatobutton {
@@ -79,8 +79,9 @@ button:visited {
 }
 
 button:hover {
-    background-color: #6c7e8950; 
-    color: #394044;
+    background-color: #a95c6290; 
+    color: #444444;
+    padding: 1.5%;
 }
 
 button:active {

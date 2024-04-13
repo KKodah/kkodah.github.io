@@ -1,13 +1,13 @@
 body {
     margin: 0 auto;
     padding: 0;
-    background-color: #faf7e5;
+    background-color: white;
     font-family: Verdana;
     color: #394044;
 }
 
 h1{
-    background-color: #38761D;
+    background-color: #da969b;
     color: #f2f6f9;
     margin: 0;
     padding: 20px;
@@ -17,7 +17,7 @@ h1{
 }
 
 .navbar {
-    background-color: #c5e692;
+    background-color: 	#f0d5d7;
     padding: 10px;
 }
 
@@ -39,7 +39,7 @@ h1{
 
 .navbar a:hover {
     color: white;
-    background-color: 	#6bb24a;
+    background-color: 	#da969b80;
     border-radius: 10px;
     
 }
